@@ -1,0 +1,1 @@
+the script was meant to be a testing to see if trolls on fivem servers can be stopped logically with anti-vdm i was close to getting it done, but have abondoned it with the last missing feature. adding a check, to how many times the person wouldve been hit in a while or the dmg received to then consider whether the troll or the player doing it accidentally, should be punished
